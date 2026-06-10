@@ -1,6 +1,6 @@
 {
-  "version": "2.1.4",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v2.1.4/Riff_Studio_v2.exe",
-  "sha256": "07b987e8bf281aa4f6c2eab725ed4825ce86785c1e568e30c5b5cc9c3e8e4278",
-  "notes": "Fix download MP3 — novo submenu do Suno"
+  "version": "2.1.5",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v2.1.5/Riff_Studio_v2.exe",
+  "sha256": "36772675344154046c1e01f7e63a6073bc4b6cd99008147a000f93cc0cfa8f4a",
+  "notes": "Fix erro vídeo + download não encerra até baixar todas as músicas"
 }
