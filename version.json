@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v2.0.0/Riff_Studio_v2.exe",
-  "sha256": "075DFB7B347F5E41927C9D3C315BAC1E5E27D765E464227CD6DBEF1C05374748",
-  "notes": "Lançamento inicial"
+  "version": "2.1.0",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v2.1.0/Riff_Studio_v2.exe",
+  "sha256": "25f0536df5c89b744958552f366e19b8fa2c84993635698d777c1ebb1cf0509a",
+  "notes": "Agendamento YouTube, auto-update, card de licença, correção de tags"
 }
