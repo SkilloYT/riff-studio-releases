@@ -1,6 +1,6 @@
 {
   "version": "2.1.5",
   "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v2.1.5/Riff_Studio_v2.exe",
-  "sha256": "36772675344154046c1e01f7e63a6073bc4b6cd99008147a000f93cc0cfa8f4a",
-  "notes": "Fix erro vídeo + download não encerra até baixar todas as músicas"
+  "sha256": "f781910c952e3e7e8bf05d0f34f30e3c287d74c639c718e073d527aed88d53c8",
+  "notes": "Geração de vídeo removida do fluxo automático — só pelo Compilador"
 }
