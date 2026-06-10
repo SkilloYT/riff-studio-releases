@@ -1,6 +1,6 @@
 {
   "version": "2.1.2",
   "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v2.1.2/Riff_Studio_v2.exe",
-  "sha256": "21b68083515431cdfcb225ce65108b0d0517e8f9aa91136ce32ce6c82c59ee4c",
-  "notes": "Multicontas Suno — escolha qual conta usar na geração"
+  "sha256": "c56a920a73baba746a73ebab48cea2d7f57ac66a705437dd7efc75aa920ac730",
+  "notes": "Login Conta sempre abre sign-in limpo, sem herdar sessão anterior"
 }
