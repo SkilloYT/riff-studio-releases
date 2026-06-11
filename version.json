@@ -1,6 +1,6 @@
 {
-  "version": "2.1.5",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v2.1.5/Riff_Studio_v2.exe",
-  "sha256": "f781910c952e3e7e8bf05d0f34f30e3c287d74c639c718e073d527aed88d53c8",
-  "notes": "Geração de vídeo removida do fluxo automático — só pelo Compilador"
+  "version": "2.1.6",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v2.1.6/Riff_Studio_v2.exe",
+  "sha256": "4eaeb655424e898f664acbbb0f052e1181f95208ffcc7cf48860dbe89f55a11c",
+  "notes": "ffmpeg embutido no EXE — não precisa instalar nada"
 }
