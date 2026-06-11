@@ -1,6 +1,6 @@
 {
-  "version": "3.0.0",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v3.0.0/Riff_Studio_v3.exe",
-  "sha256": "15f4150f0d6345fb8c31fdded10af479993bfb507f87bde8368a2799b36a0aa6",
-  "notes": "Seletor de browser para o Suno"
+  "version": "3.0.1",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v3.0.1/Riff_Studio_v3.exe",
+  "sha256": "03ef588965b3bd5919cf0451f778fb185f5accf8b7dce6ebd843c728189f5eb5",
+  "notes": "Aumento de timeout no download MP3 para máquinas mais lentas"
 }
