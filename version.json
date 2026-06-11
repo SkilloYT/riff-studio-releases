@@ -1,6 +1,6 @@
 {
-  "version": "2.1.6",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v2.1.6/Riff_Studio_v2.exe",
-  "sha256": "4eaeb655424e898f664acbbb0f052e1181f95208ffcc7cf48860dbe89f55a11c",
-  "notes": "ffmpeg embutido no EXE — não precisa instalar nada"
+  "version": "2.1.7",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v2.1.7/Riff_Studio_v2.exe",
+  "sha256": "758cc7ecad2a3ffd07ccadbed75a14d631d2dcf184fae61e98bc5e9db98d66fb",
+  "notes": "Retry automático CPU quando GPU falha; fix playwright Mac"
 }
