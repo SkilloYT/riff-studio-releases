@@ -1,6 +1,6 @@
 {
-  "version": "2.1.7",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v2.1.7/Riff_Studio_v2.exe",
-  "sha256": "758cc7ecad2a3ffd07ccadbed75a14d631d2dcf184fae61e98bc5e9db98d66fb",
-  "notes": "Retry automático CPU quando GPU falha; fix playwright Mac"
+  "version": "3.0.0",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v3.0.0/Riff_Studio_v3.exe",
+  "sha256": "15f4150f0d6345fb8c31fdded10af479993bfb507f87bde8368a2799b36a0aa6",
+  "notes": "Seletor de browser para o Suno"
 }
