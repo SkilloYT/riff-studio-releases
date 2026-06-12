@@ -1,6 +1,6 @@
 {
-  "version": "3.0.2",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v3.0.2/Riff_Studio_v3.exe",
-  "sha256": "6b3a19e5210347c76175a5ab756557b663ff4843f24a30fd146a3f9c1fd47c8a",
-  "notes": "Fix: músicas não encontradas após geração no Suno"
+  "version": "3.0.3",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v3.0.3/Riff_Studio_v3.exe",
+  "sha256": "0e2ff493483cbf2b54ef072198a84fdd022f84d01f44cd1874ff8b9a94bb7afa",
+  "notes": "Fix: auto-update travando no Windows"
 }
