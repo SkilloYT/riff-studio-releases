@@ -1,6 +1,6 @@
 {
-  "version": "3.0.3",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v3.0.3/Riff_Studio_v3.exe",
-  "sha256": "0e2ff493483cbf2b54ef072198a84fdd022f84d01f44cd1874ff8b9a94bb7afa",
-  "notes": "Fix: auto-update travando no Windows"
+  "version": "4.1.6",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.1.6/Riff_Studio_v4.exe",
+  "sha256": "80990b5f6c240398669ee82b588f85cfd58e3a9e13d562ae922a5efe60a193d0",
+  "notes": "Fix: prompt de capa fiel ao visual real das thumbnails — não mais genérico"
 }
