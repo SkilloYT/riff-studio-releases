@@ -1,6 +1,6 @@
 {
-  "version": "4.1.6",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.1.6/Riff_Studio_v4.exe",
-  "sha256": "80990b5f6c240398669ee82b588f85cfd58e3a9e13d562ae922a5efe60a193d0",
-  "notes": "Fix: prompt de capa fiel ao visual real das thumbnails — não mais genérico"
+  "version": "4.3.3",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.3.3/Riff_Studio_v4.exe",
+  "sha256": "6aa3a3a3e3a429c3b28ad6e5a062a5242084779cbb1ebc09e6dd31afd98c4249",
+  "notes": "Fix OpenRouter 401 (limpeza automática da chave) + botão Limpar Cache + erros de IA claros"
 }
