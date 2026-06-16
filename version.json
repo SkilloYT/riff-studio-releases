@@ -1,6 +1,6 @@
 {
-  "version": "4.3.3",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.3.3/Riff_Studio_v4.exe",
-  "sha256": "6aa3a3a3e3a429c3b28ad6e5a062a5242084779cbb1ebc09e6dd31afd98c4249",
-  "notes": "Fix OpenRouter 401 (limpeza automática da chave) + botão Limpar Cache + erros de IA claros"
+  "version": "4.3.5",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.3.5/Riff_Studio_v4.exe",
+  "sha256": "9fc7376a0e64834fa39ab9ecb988593840d8e8da814dd6e8072c05db1ddef676",
+  "notes": "Consolidado: fix vídeo + licença/heartbeat + perfil desempenho + animações de texto"
 }
