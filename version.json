@@ -1,6 +1,5 @@
 {
-  "version": "4.3.5",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.3.5/Riff_Studio_v4.exe",
-  "sha256": "9fc7376a0e64834fa39ab9ecb988593840d8e8da814dd6e8072c05db1ddef676",
-  "notes": "Consolidado: fix vídeo + licença/heartbeat + perfil desempenho + animações de texto"
+  "version": "4.3.9",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.3.9/Riff_Studio_v4.exe",
+  "sha256": "ea32eacfb3a005b3a0657cad5183972e88f183a7e3d7fc83f065fe4604931fa7"
 }
