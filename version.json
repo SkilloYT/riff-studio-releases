@@ -1,5 +1,6 @@
 {
-  "version": "4.6.1",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.6.1/Riff_Studio_v4.exe",
-  "sha256": "A9EC1E54D84E4C395EC5EFFF70A959BF534D2C6778BBDC007E981535EF71C9A7"
+  "version": "4.6.7",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.6.7/Riff_Studio_v4.exe",
+  "sha256": "856877ac28d6c1311b3a0d0256c11ad9e12e832b2defc71eea13c3afbc292601",
+  "notes": "Correção da licença (chave fica salva, só pede ao atualizar) + Launch Kit (limpar, exportar TXT/PDF, refatorar canal)"
 }
