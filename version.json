@@ -1,6 +1,6 @@
 {
-  "version": "4.6.8",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.6.8/Riff_Studio_v4.exe",
-  "sha256": "0405e6e1bb2be2eb59d8c5da3920ff51bc5df96c080c40d27d4267f6797f4942",
-  "notes": "Correção: autenticação de canais do YouTube voltou a funcionar"
+  "version": "4.6.9",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.6.9/Riff_Studio_v4.exe",
+  "sha256": "4f906709ccfb2ca4b7ff24cecc63f6108dcd32fc5f8202da2ed325dd8385e2d9",
+  "notes": "Melhorias e ajustes gerais"
 }
