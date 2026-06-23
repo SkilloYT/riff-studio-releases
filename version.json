@@ -1,6 +1,6 @@
 {
-  "version": "4.6.7",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.6.7/Riff_Studio_v4.exe",
-  "sha256": "856877ac28d6c1311b3a0d0256c11ad9e12e832b2defc71eea13c3afbc292601",
-  "notes": "Correção da licença (chave fica salva, só pede ao atualizar) + Launch Kit (limpar, exportar TXT/PDF, refatorar canal)"
+  "version": "4.6.8",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.6.8/Riff_Studio_v4.exe",
+  "sha256": "0405e6e1bb2be2eb59d8c5da3920ff51bc5df96c080c40d27d4267f6797f4942",
+  "notes": "Correção: autenticação de canais do YouTube voltou a funcionar"
 }
