@@ -1,6 +1,6 @@
 {
-  "version": "4.6.9",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.6.9/Riff_Studio_v4.exe",
-  "sha256": "4f906709ccfb2ca4b7ff24cecc63f6108dcd32fc5f8202da2ed325dd8385e2d9",
-  "notes": "Melhorias e ajustes gerais"
+  "version": "4.7.0",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.0/Riff_Studio_v4.exe",
+  "sha256": "2a4ad9e5379d9e3eb49263e48a50e1dad972f22937dceeace4da3d7ccaee58ee",
+  "notes": "Transições refeitas (música = fade in/out rápido; nova transição entre imagens/vídeos) + correções de progresso e Edição por Tempo"
 }
