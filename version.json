@@ -1,6 +1,6 @@
 {
-  "version": "4.7.0",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.0/Riff_Studio_v4.exe",
-  "sha256": "2a4ad9e5379d9e3eb49263e48a50e1dad972f22937dceeace4da3d7ccaee58ee",
-  "notes": "Transições refeitas (música = fade in/out rápido; nova transição entre imagens/vídeos) + correções de progresso e Edição por Tempo"
+  "version": "4.7.1",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.1/Riff_Studio_v4.exe",
+  "sha256": "de246b1497b73e92a10f20d4759869b10d3612344084e9857bf4272e7fc1aad3",
+  "notes": "Correções no upload do YouTube: descrição não força mais texto padrão e thumbnail é otimizada e enviada corretamente (≤2 MB)."
 }
