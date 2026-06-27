@@ -1,6 +1,6 @@
 {
-  "version": "4.7.2",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.2/Riff_Studio_v4.exe",
-  "sha256": "f7998b59f99a593e0b64ae3bfec9f8334707b73900788428ce5171d85c38e966",
-  "notes": "Corrige download do Suno (baixava só 1 de várias músicas) e protege as contas Suno contra perda após atualização."
+  "version": "4.7.3",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.3/Riff_Studio_v4.exe",
+  "sha256": "fe4ed61323c6ac35b982bf214c6057fea7889c70d3dfbd4072c2b0bd35bfb182",
+  "notes": "Barra de progresso anima por música; análise da música preenche os estilos da criação (chips + estilos adicionais); Maestro tenta novamente se a IA devolver resposta sem JSON."
 }
