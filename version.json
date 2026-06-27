@@ -1,6 +1,6 @@
 {
-  "version": "4.7.3",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.3/Riff_Studio_v4.exe",
-  "sha256": "fe4ed61323c6ac35b982bf214c6057fea7889c70d3dfbd4072c2b0bd35bfb182",
-  "notes": "Barra de progresso anima por música; análise da música preenche os estilos da criação (chips + estilos adicionais); Maestro tenta novamente se a IA devolver resposta sem JSON."
+  "version": "4.7.4",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.4/Riff_Studio_v4.exe",
+  "sha256": "e564f89b138fefb2cf1999c89d5ee50310cd00e121198295fd527fed3ed1e5dc",
+  "notes": "Barra de progresso anima por música; análise da música preenche os estilos (chips + estilos adicionais); Maestro e análise de referência tentam novamente quando a IA devolve resposta sem JSON."
 }
