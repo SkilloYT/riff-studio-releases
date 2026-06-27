@@ -1,6 +1,6 @@
 {
-  "version": "4.7.1",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.1/Riff_Studio_v4.exe",
-  "sha256": "de246b1497b73e92a10f20d4759869b10d3612344084e9857bf4272e7fc1aad3",
-  "notes": "Correções no upload do YouTube: descrição não força mais texto padrão e thumbnail é otimizada e enviada corretamente (≤2 MB)."
+  "version": "4.7.2",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.2/Riff_Studio_v4.exe",
+  "sha256": "f7998b59f99a593e0b64ae3bfec9f8334707b73900788428ce5171d85c38e966",
+  "notes": "Corrige download do Suno (baixava só 1 de várias músicas) e protege as contas Suno contra perda após atualização."
 }
