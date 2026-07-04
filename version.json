@@ -1,6 +1,6 @@
 {
-  "version": "4.7.4",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.4/Riff_Studio_v4.exe",
-  "sha256": "e564f89b138fefb2cf1999c89d5ee50310cd00e121198295fd527fed3ed1e5dc",
-  "notes": "Barra de progresso anima por música; análise da música preenche os estilos (chips + estilos adicionais); Maestro e análise de referência tentam novamente quando a IA devolve resposta sem JSON."
+  "version": "4.7.14",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.14/Riff_Studio_v4.exe",
+  "sha256": "f893dda7a607cbdb615d11a6bd14bc965e546d9589c97d25302d46af496e282f",
+  "notes": "Compilador: no modo '1 vídeo por imagem', cada imagem pode ter seu próprio texto (conteúdo, posição, estilo, animação). Imagem sem texto próprio usa o texto global."
 }
