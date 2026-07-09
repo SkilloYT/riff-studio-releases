@@ -1,6 +1,6 @@
 {
-  "version": "4.7.14",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.14/Riff_Studio_v4.exe",
-  "sha256": "f893dda7a607cbdb615d11a6bd14bc965e546d9589c97d25302d46af496e282f",
-  "notes": "Compilador: no modo '1 vídeo por imagem', cada imagem pode ter seu próprio texto (conteúdo, posição, estilo, animação). Imagem sem texto próprio usa o texto global."
+    "version": "4.7.20",
+    "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.20/Riff_Studio_v4.exe",
+    "sha256": "61937b2785b2bef70b39d6d3d08736ad93f91e11802a00afd4d737bd7ce8a173",
+    "notes": "Fix lyrics indo para campo errado no Suno v5.5; fix botão Maestro AI não gerava; fix SSE travava botão após reconexão."
 }
