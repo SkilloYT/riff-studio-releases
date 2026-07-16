@@ -1,6 +1,6 @@
 {
-    "version": "4.7.20",
-    "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v4.7.20/Riff_Studio_v4.exe",
-    "sha256": "61937b2785b2bef70b39d6d3d08736ad93f91e11802a00afd4d737bd7ce8a173",
-    "notes": "Fix lyrics indo para campo errado no Suno v5.5; fix botão Maestro AI não gerava; fix SSE travava botão após reconexão."
+    "version": "5.1.0",
+    "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v5.1.0/Riff_Studio_v5.exe",
+    "sha256": "67425a5f2c7f9a4154eafa1b255251273257520a122fceeb4aa4cfe2935d2864",
+    "notes": "Preenchimento de Lyrics e Styles no Suno agora usa os seletores estáveis do editor (.lyrics-editor-content / data-testid create-form-styles-wrapper), espera o campo montar, verifica se o conteúdo entrou e repete automaticamente, com execCommand como método alternativo. Corrige os campos não sendo preenchidos."
 }
