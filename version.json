@@ -1,6 +1,6 @@
 {
-  "version": "5.5.1",
-  "url": "https://github.com/SEU_USUARIO/SEU_REPO/releases/download/v5.5.1/Riff_Studio_v5.exe",
-  "sha256": "b22d07d54a7c7ba9decf0c136674f6f264052e6949a55ce3520b39c9b212c639",
-  "notes": "Corrige o modal de estilo por letra e a paleta de chips, que nao abriam na aba Criar por estarem dentro da aba do Launch Kit (oculta). Modais movidos para fora das abas."
+  "version": "5.7.2",
+  "url": "https://github.com/SEU_USUARIO/SEU_REPO/releases/download/v5.7.2/Riff_Studio_v5.exe",
+  "sha256": "9e644c0558c3941f5924ceac3f716648083aed2dd74e5b9d7931e5629d2ff65a",
+  "notes": "Visualizadores e efeitos reescritos com motor proprio: 9 estilos (Barras, Classico, Blocos, Reflexo, Onda, Onda dupla, Linha, Circulo, Anel duplo) e 8 efeitos de particula reais. Corrige a sincronia com a musica. Prompt master do Maestro restaurado. Ate 5 letras por geracao com card editavel por musica. Titulo da musica editavel. Identidade Skillo Labs na tela de licenca e novo tema padrao."
 }
