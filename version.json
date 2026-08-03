@@ -1,6 +1,6 @@
 {
-  "version": "5.7.2",
-  "url": "https://github.com/SEU_USUARIO/SEU_REPO/releases/download/v5.7.2/Riff_Studio_v5.exe",
-  "sha256": "9e644c0558c3941f5924ceac3f716648083aed2dd74e5b9d7931e5629d2ff65a",
-  "notes": "Visualizadores e efeitos reescritos com motor proprio: 9 estilos (Barras, Classico, Blocos, Reflexo, Onda, Onda dupla, Linha, Circulo, Anel duplo) e 8 efeitos de particula reais. Corrige a sincronia com a musica. Prompt master do Maestro restaurado. Ate 5 letras por geracao com card editavel por musica. Titulo da musica editavel. Identidade Skillo Labs na tela de licenca e novo tema padrao."
+  "version": "5.9.7",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v5.9.7/Riff_Studio_v5.exe",
+  "sha256": "4278d126ce0a1aa58f7f853e9497c2c7993e8d9ec47a36b38cefd82500e6579e",
+  "notes": "Corrige a automacao do Suno fechando no meio do preenchimento com erro de codificacao ('charmap codec can't encode character'). Inclui a 5.9.6 (Gemini removido dos seletores), a 5.9.2 (ativacao de licenca) e a 5.9.1 (trilha de fundo na narracao, meta tags e homophonizer no modo Cover)."
 }
