@@ -1,6 +1,6 @@
 {
-  "version": "5.9.8",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v5.9.8/Riff_Studio_v5.exe",
-  "sha256": "ab2615c08d3b8acb434bcd554c290eaaf8645eac0808814133a55bec283bc392",
-  "notes": "Corrige o agendamento de videos no YouTube. O horario era enviado como UTC em vez do fuso local, publicando 3 horas mais cedo — e, quando o agendamento era para menos de 3 horas, o video ia ao ar na hora como publico. Inclui a 5.9.7 (automacao do Suno), a 5.9.6 (Gemini removido) e a 5.9.2 (ativacao de licenca)."
+  "version": "5.9.10",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v5.9.10/Riff_Studio_v5.exe",
+  "sha256": "4fa8955fe95830b0603309eca115f886af41b164188e40a16fc4d367ec20c549",
+  "notes": "Corrige as opcoes de playlist e legenda, que retornavam erro de permissao: a autorizacao do YouTube agora inclui o acesso necessario. Canais ja conectados precisam ser reautorizados uma vez nas Configuracoes. Inclui a 5.9.9 (novas opcoes de publicacao), a 5.9.8 (fuso no agendamento) e a 5.9.7 (automacao do Suno)."
 }
