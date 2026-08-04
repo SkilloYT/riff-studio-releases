@@ -1,6 +1,6 @@
 {
-  "version": "5.9.7",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v5.9.7/Riff_Studio_v5.exe",
-  "sha256": "4278d126ce0a1aa58f7f853e9497c2c7993e8d9ec47a36b38cefd82500e6579e",
-  "notes": "Corrige a automacao do Suno fechando no meio do preenchimento com erro de codificacao ('charmap codec can't encode character'). Inclui a 5.9.6 (Gemini removido dos seletores), a 5.9.2 (ativacao de licenca) e a 5.9.1 (trilha de fundo na narracao, meta tags e homophonizer no modo Cover)."
+  "version": "5.9.8",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v5.9.8/Riff_Studio_v5.exe",
+  "sha256": "ab2615c08d3b8acb434bcd554c290eaaf8645eac0808814133a55bec283bc392",
+  "notes": "Corrige o agendamento de videos no YouTube. O horario era enviado como UTC em vez do fuso local, publicando 3 horas mais cedo — e, quando o agendamento era para menos de 3 horas, o video ia ao ar na hora como publico. Inclui a 5.9.7 (automacao do Suno), a 5.9.6 (Gemini removido) e a 5.9.2 (ativacao de licenca)."
 }
