@@ -1,6 +1,6 @@
 {
-  "version": "5.9.10",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v5.9.10/Riff_Studio_v5.exe",
-  "sha256": "4fa8955fe95830b0603309eca115f886af41b164188e40a16fc4d367ec20c549",
-  "notes": "Corrige as opcoes de playlist e legenda, que retornavam erro de permissao: a autorizacao do YouTube agora inclui o acesso necessario. Canais ja conectados precisam ser reautorizados uma vez nas Configuracoes. Inclui a 5.9.9 (novas opcoes de publicacao), a 5.9.8 (fuso no agendamento) e a 5.9.7 (automacao do Suno)."
+  "version": "5.12.0",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v5.12.0/Riff_Studio_v5.exe",
+  "sha256": "70081ffeec48392350ae06334fff2e84b778fabaf5ce47c2496ae1d2a3e134b6",
+  "notes": "Editor de video remodelado: barra de icones com categorias, opcoes recolhiveis, timeline logo abaixo do player, zoom e tela cheia na previa. Aparar musicas pelas alcas, volume por faixa em decibeis, arrastar conteudo entre faixas e botao Novo projeto. Aviso quando a timeline tem trecho sem imagem. Mais de 130 novos estilos musicais, incluindo Moda de Viola e Sertanejo Raiz."
 }
