@@ -1,6 +1,6 @@
 {
-  "version": "5.12.0",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v5.12.0/Riff_Studio_v5.exe",
-  "sha256": "70081ffeec48392350ae06334fff2e84b778fabaf5ce47c2496ae1d2a3e134b6",
-  "notes": "Editor de video remodelado: barra de icones com categorias, opcoes recolhiveis, timeline logo abaixo do player, zoom e tela cheia na previa. Aparar musicas pelas alcas, volume por faixa em decibeis, arrastar conteudo entre faixas e botao Novo projeto. Aviso quando a timeline tem trecho sem imagem. Mais de 130 novos estilos musicais, incluindo Moda de Viola e Sertanejo Raiz."
+  "version": "5.12.2",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v5.12.2/Riff_Studio_v5.exe",
+  "sha256": "aae4921e66811c1015042791f80badda78c57cca27c61baf0788f6ccc5712566",
+  "notes": "Editor de video remodelado: barra de icones com categorias, opcoes recolhiveis com rolagem, timeline logo abaixo do player, zoom e tela cheia na previa. Aparar musicas pelas alcas, volume por faixa em decibeis, arrastar conteudo entre faixas e botao Novo projeto. Aviso quando a timeline tem trecho sem imagem. Corrige o agendamento no YouTube, que publicava 3 horas adiantado. Mais de 130 novos estilos musicais, incluindo Moda de Viola e Sertanejo Raiz."
 }
