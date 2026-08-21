@@ -1,6 +1,6 @@
 {
-  "version": "5.17.0",
-  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v5.17.0/Riff_Studio_v5.exe",
-  "sha256": "5eac78ced4bc191389a5c7f6afa13d69f674e5afb2013b7641b9de396b49ed88",
-  "notes": "Suno ganha dois campos novos que a IA/UI ainda nao usava: Vocal Gender (masculina/feminina) e Duration (duracao customizada, ate 6 minutos). Alem disso, o Musicful AI entrou como terceira plataforma de geracao, ao lado do Suno e do Mozart."
+  "version": "5.18.0",
+  "url": "https://github.com/SkilloYT/riff-studio-releases/releases/download/v5.18.0/Riff_Studio_v5.exe",
+  "sha256": "c6b514171c79751e13d8f4000f7b70837227858f1789ad28f83aecae755fcaa1",
+  "notes": "Lista de modelos Claude e OpenAI atualizada: Claude Opus 5 e Claude Sonnet 5 adicionados (modelos mais novos), removidos IDs antigos com sufixo de data. OpenAI ganha a familia GPT-5.6 (Sol/Terra/Luna), que sucede a 5.5 como modelo padrao."
 }
